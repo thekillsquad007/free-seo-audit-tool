@@ -1,2 +1,8 @@
 # free-seo-audit-tool
-seo audit tool for beginners
+SEO Audit tool for dummies/beginners in SEO
+
+Usage:
+
+python3 main.py https://yoursitename.com
+
+Reports are generated in HTML and JSON Files
